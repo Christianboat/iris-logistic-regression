@@ -6,7 +6,6 @@ A clean, modular pipeline to classify Iris flower species using Logistic Regress
 
 ---
 ## 📂 Project Structure
-
 iris-logistic-regression/
 ├── data/
 │ └── Iris.csv # Raw dataset
@@ -19,8 +18,8 @@ iris-logistic-regression/
 │ └── scaler.joblib
 ├── requirements.txt
 └── README.md # This file
-
 ---
+
 ## 🎨 Results
 Sepal Length Distribution
 

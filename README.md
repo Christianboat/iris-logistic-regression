@@ -4,6 +4,7 @@
 
 A clean, modular pipeline to classify Iris flower species using Logistic Regression. All development and model training happens on Kaggle; results and artifacts are then published here.
 
+---
 ## 📂 Project Structure
 
 iris-logistic-regression/
@@ -19,6 +20,7 @@ iris-logistic-regression/
 ├── requirements.txt
 └── README.md # This file
 
+---
 ## 🎨 Results
 Sepal Length Distribution
 

@@ -1,4 +1,5 @@
-[![Python](https://img.shields.io/badge/project-blue)
+[![Python](https://img.shields.io/badge/python-3.10-blue)](https://www.python.org/)
+
 # Iris Logistic Regression
 
 A clean, modular pipeline to classify Iris flower species using Logistic Regression. All development and model training happens on Kaggle; results and artifacts are then published here.
@@ -9,7 +10,6 @@ iris-logistic-regression/
 ├── data/
 │ └── Iris.csv # Raw dataset
 ├── LICENSE
-├── main.py # Entry point tying modules together
 ├── notebooks/
 │ └── iris_exploration.ipynb # Kaggle Notebook exported
 ├── models/

@@ -1,5 +1,4 @@
-[![Python](https://img.shields.io/badge/project-blue)](https://www.python.org/) [![Build Status](https://github.com/<Christianboat>/iris-logistic-regression/actions/workflows/ci.yml/badge.svg)](https://github.com/<Christianboat>/iris-logistic-regression)
-
+[![Python](https://img.shields.io/badge/project-blue)
 # Iris Logistic Regression
 
 A clean, modular pipeline to classify Iris flower species using Logistic Regression. All development and model training happens on Kaggle; results and artifacts are then published here.
@@ -24,9 +23,9 @@ iris-logistic-regression/
 Sepal Length Distribution
 ```
 Sample Classification Report
-Accuracy: 0.967
+Accuracy: 1.00
                precision    recall  f1-score   support
 Iris-setosa       1.00      1.00      1.00        10
-Iris-versicolor   0.95      0.90      0.92        10
-Iris-virginica    0.92      0.95      0.93        10
+Iris-versicolor   1.00      1.00      1.00        9
+Iris-virginica    1.00      1.00      1.00        11
 ```

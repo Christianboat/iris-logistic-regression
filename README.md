@@ -1,10 +1,10 @@
-[![Python](https://img.shields.io/badge/python-3.10-blue)](https://www.python.org/) [![Build Status](https://github.com/<Christianboat>/iris-logistic-regression/actions/workflows/ci.yml/badge.svg)](https://github.com/<Christianboat>/iris-logistic-regression/actions)
+[![Python](https://img.shields.io/badge/python-3.10-blue)](https://www.python.org/) [![Build Status](https://github.com/<Christianboat>/iris-logistic-regression/actions/workflows/ci.yml/badge.svg)](https://github.com/<Christianboat>/iris-logistic-regression)
 
 # Iris Logistic Regression
 
 A clean, modular pipeline to classify Iris flower species using Logistic Regression. All development and model training happens on Kaggle; results and artifacts are then published here.
 
----
+```
 ## 📂 Project Structure
 iris-logistic-regression/
 ├── data/
@@ -18,7 +18,7 @@ iris-logistic-regression/
 │ └── scaler.joblib
 ├── requirements.txt
 └── README.md # This file
----
+```
 
 ## 🎨 Results
 Sepal Length Distribution

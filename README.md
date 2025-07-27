@@ -16,7 +16,6 @@ iris-logistic-regression/
 ├── models/
 │ ├── iris_logistic_model.joblib
 │ └── scaler.joblib
-├── requirements.txt
 └── README.md # This file
 ```
 
